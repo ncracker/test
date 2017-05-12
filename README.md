@@ -74,6 +74,10 @@ Timeboards allow for plotting metrics over time, usually to establish event corr
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/syarov/33758213173/in/dateposted-public/" title="Random over 0.9"><img src="https://c1.staticflickr.com/5/4193/33758213173_58882aee43_z.jpg" width="640" height="299" alt="Random over 0.9"></a>
 
+Snapshots are also covered in a daily daigest email.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/syarov/33804890723/in/dateposted-public/" title="Discussions"><img src="https://c1.staticflickr.com/5/4165/33804890723_c8f65091d3_c.jpg" width="800" height="505" alt="Discussions"></a>
+
 ### Level 3 - Alerting on your Data
 
 Since you've already caught your test metric going above 0.90 once, you don't want to have to continually watch this dashboard to be alerted when it goes above 0.90 again.  So let's make life easier by creating a monitor.  
