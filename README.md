@@ -9,13 +9,13 @@
 
 * Sign up for Datadog (use "Datadog Recruiting Candidate" in the "Company" field), get the Agent reporting metrics from your local machine.
 
-Singed up under ncracker@gmail.com with api key 03a07ca04e3f11e66378b961d4fdd374.
+Signed up under ncracker@gmail.com with api key 03a07ca04e3f11e66378b961d4fdd374.
 
 Dashboard - https://goo.gl/vrujQS
 
 * Bonus question: In your own words, what is the Agent?
 
-The Datadog agent is a small program, which runs in the background. In falls within a domain of programs called daemons or services. Like other daemons, it's meant to start automatically with the Operating System and runs continuously in the background and it requires no user interaction. Its sole purpose is collecting and forwarding system and services information and metrics to your Datadog account. Its functionality can be extended to provide additional metrics, either via the ready-made integrations (which work out-of-the-box) or by the administrator via its API, which allows for custom designed agent checks. The agent begins to collect data and sends it immediately after it has been installed. Data communication channel is established by the agent, over an encrypted TCP connection. It can accommodate for network interruptions by storing the data locally until the outbound link can be re-established. Additional customization to agent’s behavior can be made via its configuration files, but are not required.
+The Datadog agent is a small program which runs in the background. In falls within a domain of programs called daemons or services. Like other daemons, it's meant to start automatically with the Operating System and runs continuously in the background and it requires no user interaction. Its sole purpose is collecting and forwarding system and services information and metrics to your Datadog account. Its functionality can be extended to provide additional metrics, either via the ready-made integrations (which work out-of-the-box) or by the administrator via its API, which allows for custom designed agent checks. The agent begins to collect data and sends it immediately after it has been installed. Data communication channel is established by the agent, over an encrypted TCP connection. It can accommodate for network interruptions by storing the data locally until the outbound link can be re-established. Additional customization to the agent’s behavior can be made via its configuration files, but isn't required.
 
 * Add tags in the Agent config file and show us a screenshot of your host and its tags on the Host Map page in Datadog.
 
