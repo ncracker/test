@@ -9,7 +9,8 @@
 
 * Sign up for Datadog (use "Datadog Recruiting Candidate" in the "Company" field), get the Agent reporting metrics from your local machine.
 
-Singed up under ncracker@gmail.com with api key 03a07ca04e3f11e66378b961d4fdd374
+Singed up under ncracker@gmail.com with api key 03a07ca04e3f11e66378b961d4fdd374.
+
 Dashboard - https://goo.gl/vrujQS
 
 * Bonus question: In your own words, what is the Agent?
